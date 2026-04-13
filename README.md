@@ -14,6 +14,12 @@ jeannaryab
 пароль 
 MN4pCHABU5KY!NYS
 
+таблицы 
+incomes,
+orders,
+sales,
+stocks
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
